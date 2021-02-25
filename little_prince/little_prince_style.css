@@ -5,3 +5,11 @@ p {
 .underline {
   text-decoration: underline;
 }
+
+.highlight {
+  background-color: orange;
+}
+
+.color-text {
+  color: red;
+}
